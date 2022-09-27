@@ -1,0 +1,17 @@
+newmtl material
+Ka 0.141 0.141 0.141
+Kd 0.4900 0.4900 0.4900
+Ks 0.2470 0.2470 0.2470
+Tr 0.0000
+d 1.0000
+Tf 0.0000 0.0000 0.0000
+Pr -1.3860
+Pm 0.0000
+Pc 0.0000
+Pcr 0.0000
+Ni 1.5000
+Ke 0.0000 0.0000 0.0000
+Ns 238.6
+illum 2
+map_Kd Ground_Color.jpg
+map_Ks Ground_Roughness.jpg
